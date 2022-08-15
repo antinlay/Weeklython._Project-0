@@ -1,0 +1,2 @@
+| 3.3. Проектирование UI | Макет в Figma (приложить ссылку) <br/> *src/project/ui.md*                                        | -=no comments=- | 
+| 3.4. Проектирование UX | Интерактивный макет в Figma (приложить ссылку) <br/> *src/project/uх.md*                          | -=no comments=- |
